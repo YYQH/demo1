@@ -38,7 +38,7 @@
 
 ### 董玉茹开发模块效果图
 
-![首页效果图](/img/01.jpg)
+![首页效果图](D:\class\ickt_27\demo\ickt\day2\demo1\img\01.jpg)
 
 
 
