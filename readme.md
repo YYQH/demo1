@@ -40,6 +40,10 @@ hello ickt!
 
 ![首页效果图](./img/01.jpg)
 
+<img src="img/01.jpg">
+
+
+
 
 
 
